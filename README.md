@@ -1,7 +1,7 @@
-### Laravel Kurdish Language
+### Zimanê Kurdî Laravel
 
-Note : Compatible in version 10.10 and up
+Nîşe: Di guhertoya 10.10 û jor de hevaheng e
 
-- go to `lang` folder
-- create new folder called `ckb`
-- import files from repositorie
+- biçin peldanka `lang`
+- Peldanka nû ya bi navê `ckb` biafirîne
+- Pelên ji depoyê derxînin
